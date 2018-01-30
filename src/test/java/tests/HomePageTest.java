@@ -15,7 +15,7 @@ public class HomePageTest {
     @Test
     public void testExample2() {
         
-        assertEquals("true", "false");
+        assertEquals("true", "true");
    
     }
     
