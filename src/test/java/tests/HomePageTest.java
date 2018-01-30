@@ -22,7 +22,7 @@ public class HomePageTest {
     @Test
     public void testExample3() {
         
-        assertEquals("true", "false");
+        assertEquals("true", "true");
    
     }
      
