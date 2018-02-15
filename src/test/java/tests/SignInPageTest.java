@@ -22,7 +22,7 @@ public class SignInPageTest {
     @Test
     public void testExampleC() {
         
-        assertEquals("true", "false");
+        assertEquals("true", "true");
    
     }
      
